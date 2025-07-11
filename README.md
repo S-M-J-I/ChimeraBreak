@@ -1,6 +1,9 @@
-<div style="text-align: center;">
-<h1>Official repository of ChimeraBreak<br/>[ICCV 2025 SVU workshop]</h1>
-  <img width=200 style='text-align: center;' src='./assets/logo.png' alt-text="logo" />
+<div align="center">
+
+# Official repository of ChimeraBreak<br/>[ICCV 2025 SVU workshop]
+
+<img width="200" src="./assets/logo.png" alt="logo" />
+
 </div>
 
 
