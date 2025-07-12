@@ -25,6 +25,12 @@ This repository contains:
 
 📝 **Accepted at the SVU Workshop @ ICCV 2025**
 
+<div align='center'>
+<img src="./assets/graphical_abstract.png" alt="logo" />
+</div>
+
+
+\
 The repository is structured as follows:
 ```bash
 ChimeraBreak/
@@ -35,12 +41,14 @@ ChimeraBreak/
 └── requirements.txt
 ```
 
+---
 
 ## 📂 Dataset
 The SVMA dataset can be accessible through: 
 - 🤗 [HuggingFace](https://huggingface.co/datasets/smji/SVMA-dataset)
 - <img width=16 src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' /> [Kaggle](https://www.kaggle.com/datasets/smjishanulislam/svmaa-bench)
 
+---
 
 ## 🛠️ Pipelines
 
@@ -48,10 +56,14 @@ The code pipelines are available [here](./notebooks/), capable of running on a s
 
 **NOTE: For the GPT and LLaMA pipelines, you must have your API keys from the respective provider.**
 
+---
+
 ## 📑 Citation
 ```
 
 ```
+
+---
 
 ## 👥 Collaborators
 [Sahid Hossain Mustakim](https://www.linkedin.com/in/sahid-hossain-mustakim-0504691b1), [S M Jishanul Islam](https://s-m-j-i.github.io/Personal-CV/), [Ummay Maria Muna](https://scholar.google.com/citations?user=a8DjRE0AAAAJ), [Montasir Chowdhury](https://www.linkedin.com/in/montasir-chowdhury-878309297), [Mohammad Jawwadul Islam](https://scholar.google.com/citations?user=lPrFLysAAAAJ), [Sadia Ahmmed](https://github.com/sadia-ahmmed), [Tashfia Sikder](https://www.linkedin.com/in/tashfia-sikder-78b1381b4), [Syed Tasdid Azam Dhrubo](https://www.linkedin.com/in/syed-tasdid-azam-dhrubo-864791197), and [Swakkhar Shatabda](https://cse.sds.bracu.ac.bd/faculty_profile/333/dr_swakkhar_shatabda).
