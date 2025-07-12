@@ -44,7 +44,7 @@ The SVMA dataset can be accessible through:
 
 ## 🛠️ Pipelines
 
-The code pipelines are available [here](./notebooks/), capable of running on a single GPU. If you're working on a notebook cloud environment (Kaggle, Colab etc.), there's no need to install any libraries as they all come with the notebook environments. Some environments do need the groq cloud installation.
+The code pipelines are available [here](./notebooks/), capable of running on a single GPU. If you're working on a notebook cloud environment (Kaggle, Colab etc.), there's no need to install any libraries as they all come with the notebook environments. Some environments do need the groq cloud installation. The local pipelines for Ollama can run on a single P100 GPU.
 
 **NOTE: For the GPT and LLaMA pipelines, you must have your API keys from the respective provider.**
 
