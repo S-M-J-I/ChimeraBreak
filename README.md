@@ -5,7 +5,7 @@
 <img width="200" src="./assets/logo.png" alt="logo" />
 
 
-[![Paper](https://img.shields.io/badge/arxiv-code-red.svg)](https://openaccess.thecvf.com/ICCV2025)
+[![Paper](https://img.shields.io/badge/arxiv-2507.11968-red.svg)](https://arxiv.org/abs/2507.11968)
 [![Paper](https://img.shields.io/badge/ICCV'25-SVU-blue.svg)](https://openaccess.thecvf.com/ICCV2025)
 [![HF dataset](https://img.shields.io/badge/HuggingFace-SVMA-orange.svg)](https://huggingface.co/datasets/smji/SVMA-dataset)
 [![License](https://img.shields.io/github/license/sahidmustakim/ChimeraBreak)](./LICENSE)
@@ -60,7 +60,15 @@ The code pipelines are available [here](./notebooks/), capable of running on a s
 
 ## 📑 Citation
 ```
-
+@misc{mustakim2025watchlistenunderstandmislead,
+      title={Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation}, 
+      author={Sahid Hossain Mustakim and S M Jishanul Islam and Ummay Maria Muna and Montasir Chowdhury and Mohammed Jawwadul Islam and Sadia Ahmmed and Tashfia Sikder and Syed Tasdid Azam Dhrubo and Swakkhar Shatabda},
+      year={2025},
+      eprint={2507.11968},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.11968}, 
+}
 ```
 
 ---
