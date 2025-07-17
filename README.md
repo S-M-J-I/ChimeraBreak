@@ -8,7 +8,7 @@
 [![Paper](https://img.shields.io/badge/arxiv-2507.11968-red.svg)](https://arxiv.org/abs/2507.11968)
 [![Paper](https://img.shields.io/badge/ICCV'25-SVU-blue.svg)](https://openaccess.thecvf.com/ICCV2025)
 [![HF dataset](https://img.shields.io/badge/HuggingFace-SVMA-orange.svg)](https://huggingface.co/datasets/smji/SVMA-dataset)
-[![License](https://img.shields.io/github/license/sahidmustakim/ChimeraBreak)](./LICENSE)
+[![License](https://img.shields.io/github/license/sahidmustakim/SVU2025)](./LICENSE)
 
 </div>
 
