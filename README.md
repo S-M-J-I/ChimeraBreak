@@ -60,14 +60,13 @@ The code pipelines are available [here](./notebooks/), capable of running on a s
 
 ## 📑 Citation
 ```
-@misc{mustakim2025watchlistenunderstandmislead,
-      title={Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation}, 
-      author={Sahid Hossain Mustakim and S M Jishanul Islam and Ummay Maria Muna and Montasir Chowdhury and Mohammed Jawwadul Islam and Sadia Ahmmed and Tashfia Sikder and Syed Tasdid Azam Dhrubo and Swakkhar Shatabda},
-      year={2025},
-      eprint={2507.11968},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.11968}, 
+@InProceedings{Mustakim_2025_ICCV,
+    author    = {Mustakim, Sahid Hossain and Islam, S M Jishanul and Muna, Ummay Maria and Chowdhury, Montasir and Islam, Mohammed Jawwadul and Ahmmed, Sadia and Sikder, Tashfia and Dhrubo, Syed Tasdid Azam and Shatabda, Swakkhar},
+    title     = {Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2025},
+    pages     = {2955-2964}
 }
 ```
 
