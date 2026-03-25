@@ -12,6 +12,8 @@
 
 </div>
 
+Keywords: Multimodal Adversarial Attacks, Multimodal LLM Safety, AI Safety and Robustness, AI Red Teaming, Content Moderation AI, Cross-Modal Attacks, Adversarial Dataset, Video Understanding, Responsible AI, AI Alignment
+
 ## 🔍 Overview
 
 This is the official repository of the paper **Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation**.
